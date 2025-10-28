@@ -1,0 +1,15 @@
+/* Estilos para las imágenes de ejemplo en las páginas de las leyes de la Gestalt */
+.gestalt-img {
+  display: block;
+  margin: 1rem auto;
+  width: 100%;
+  max-width: 720px; /* ancho máximo estándar */
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+/* Ajuste opcional del contenedor de ejemplo */
+.example-figure {
+  text-align: center;
+}
